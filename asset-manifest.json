@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/gutenberg/static/css/main.1068a6bd.css",
+    "main.js": "/gutenberg/static/js/main.5304072c.js",
+    "static/js/787.32b9eb41.chunk.js": "/gutenberg/static/js/787.32b9eb41.chunk.js",
+    "static/media/hero-light-webfont.woff": "/gutenberg/static/media/hero-light-webfont.83166c349a991d4bc51b.woff",
+    "static/media/hero-regular-webfont.woff": "/gutenberg/static/media/hero-regular-webfont.982aad51b62de663d213.woff",
+    "static/media/hero-bold-webfont.woff2": "/gutenberg/static/media/hero-bold-webfont.ed3fd92c112a9b592787.woff2",
+    "static/media/logo.svg": "/gutenberg/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gutenberg/index.html",
+    "main.1068a6bd.css.map": "/gutenberg/static/css/main.1068a6bd.css.map",
+    "main.5304072c.js.map": "/gutenberg/static/js/main.5304072c.js.map",
+    "787.32b9eb41.chunk.js.map": "/gutenberg/static/js/787.32b9eb41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1068a6bd.css",
+    "static/js/main.5304072c.js"
+  ]
+}
